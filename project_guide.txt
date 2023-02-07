@@ -8,4 +8,5 @@ ______________________________________________________________________
 
 import {Box} from "@mui/material"
  
-what is Box --> Box is kind of division. 
+what is Box --> Box is kind of division. (div tag)
+and i will resume after connecting back with the chatGPT.
