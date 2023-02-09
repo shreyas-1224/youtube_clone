@@ -1,8 +1,8 @@
 import React from 'react'
 
-const ChannelDetail = () => {
+const ChannelDetail = ({ChannelDetail}) => {
   return (
-    <div>ChannelDetail</div>
+    <div>props.id.channelId</div>
   )
 }
 
